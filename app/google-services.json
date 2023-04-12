@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281008792916",
+    "firebase_url": "https://tablebookingapp-40e3d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tablebookingapp-40e3d",
+    "storage_bucket": "tablebookingapp-40e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281008792916:android:be619e0d7b1bdb4e0454c1",
+        "android_client_info": {
+          "package_name": "com.example.tablebookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281008792916-9c9ueepfa7oc1pvhshqarl2hjf37ng05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATf0AmuOyRhmujuAmGIC68srB3LqlOiwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281008792916-9c9ueepfa7oc1pvhshqarl2hjf37ng05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

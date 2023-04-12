@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TableSpot</string>
+    <string name="user_image_description">User profile image</string>
+    <string name="user_name">Username</string>
+    <string name="rating">User rating</string>
+    <string name="comment">User comment</string>
+    <string name="restaurant_image_description">Restaurant image</string>
+    <string name="restaurant_name_description">Restaurant name</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_cuisine_description">Cuisine type</string>
+    <string name="restaurant_cuisine">Cuisine Type</string>
+    <string name="restaurant_location_description">Restaurant location</string>
+    <string name="restaurant_location">Restaurant Location</string>
+    <string name="restaurant_avg_price_description">Average price</string>
+    <string name="restaurant_avg_price">Average Price</string>
+    <string name="restaurant_description">Restaurant Description</string>
+    <string name="book_table">Book a Table</string>
+    <string name="filter_button_description">Filter options</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="description">Description</string>
+    <string name="restaurant_rating_description">Restaurant rating</string>
+</resources>
